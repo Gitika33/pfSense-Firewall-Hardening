@@ -26,7 +26,8 @@ In this lab, I worked with the pfSense open-source firewall, widely used for net
      ```bash
      nmap <pfSense_IP>
      ```
-     ![Screenshot (97)](https://github.com/user-attachments/assets/3d8a4d86-2743-48b4-b32a-80b68b51a748)
+     ![Screenshot (97)](https://github.com/user-attachments/assets/cea6c13d-9cde-49bd-ae1a-4a3cac60eda0)
+
 
      
 2. **Port Scan Using Zenmap**
@@ -35,7 +36,8 @@ In this lab, I worked with the pfSense open-source firewall, widely used for net
    
     - Profile used: "Intense Scan"
   
-      ![Screenshot (99)](https://github.com/user-attachments/assets/939b3097-f4fa-4c72-9290-db36301edabd)
+     ![Screenshot (99)](https://github.com/user-attachments/assets/bdcce544-c3eb-4813-8f6c-82f9d94c3bfa)
+
 
    
     - Exported results to XML/HTML for reporting
